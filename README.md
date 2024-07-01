@@ -32,21 +32,23 @@ This project aims to build a robust email spam detection system using machine le
 
 ## How to Run
  
-Clone the repository:
+### Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/spam-detection.git
-cd spam-detection
-Install the required packages:
+```bash
+https://github.com/raja045/Email-Spam-Detection-Using-Logistic-Regression.git
+```
+```
+cd Email-Spam-Detection-Using-Logistic-Regression
+```
 
-bash
-Copy code
+### Install the required packages
+```bash
 pip install -r requirements.txt
-Run the Jupyter notebooks to see the step-by-step process of building the model:
+```
 
-bash
-Copy code
+### Run the Jupyter notebooks to see the step-by-step process of building the model:
+```bash
 jupyter notebook
 
-
+```
+- open the notebook " SpamDetection.ipynb ".
