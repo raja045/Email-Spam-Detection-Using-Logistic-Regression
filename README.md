@@ -51,4 +51,6 @@ pip install -r requirements.txt
 jupyter notebook
 
 ```
-- open the notebook " SpamDetection.ipynb ".
+- Open `SpamDetection.ipynb` and run the cells sequentially.
+
+
